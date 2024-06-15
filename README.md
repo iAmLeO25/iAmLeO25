@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@bikram_leo" target="blank"><img src="https://img.shields.io/twitter/follow/@bikram_leo?logo=twitter&style=for-the-badge" alt="@bikram_leo" /></a> </p>
 
-- 🔭 I’m currently working on **iTechnologies**
+- 🔭 I’m currently working on **---**
 
 - 💬 Ask me about **React, Angular, Java, DevOps, Mobile-Applications, Database**
 
